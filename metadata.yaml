@@ -1,0 +1,26 @@
+_repo: A-Bible-Hand-Book_52232
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holliday, F. C. (Fernandez C.)
+    alias: Holliday, Fernandez C.
+    birthdate: 1814
+    deathdate: 1888
+    gutenberg_agent_id: '46736'
+    url: http://www.gutenberg.org/2009/agents/46736
+description: ''
+gutenberg_issued: '2016-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52232'
+  lccn: '37019953'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible -- Indexes'
+- GITenberg
+title: A Bible Hand-Book
+url: http://www.gutenberg.org/ebooks/52232
